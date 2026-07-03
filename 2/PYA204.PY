@@ -1,3 +1,4 @@
+#練習
 a=int(input())
 b=int(input())
 c=input()
